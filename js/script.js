@@ -41,4 +41,4 @@ let LastOfFilms1 = prompt("Один из последних просмотрен
 personalMovieDB.movies[LastOfFilms1] = GradeOfFilms1;
 personalMovieDB.movies[LastOfFilms2] = GradeOfFilms2;
 
-console.log(personalMovieDB);
+console.log(personalMovieDB.movies);
